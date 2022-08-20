@@ -5,7 +5,7 @@ Visualizing Searching, Sorting Algorithms
 1. Navigate to the main.py file in either the searching or the sorting folder.
 2. Run this file and a main screen will appear.
 
-## About the project-
+## About the project :-
 - This application has been made using python language and pygame library for visualization purposes
 - This app visually demonstrates the working of some of the most popular searching and sorting algorithms.
 
@@ -13,7 +13,7 @@ Visualizing Searching, Sorting Algorithms
 1. Sequential/ Linear search
 2. Binary Search
 
-### Sorting ALgorithms Implemented
+### Sorting Algorithms Implemented
 1. Insertion Sort
 2. Bubble Sort 
 3. Selection Sort
