@@ -18,6 +18,6 @@ Visualizing Searching, Sorting Algorithms
 2. Bubble Sort 
 3. Selection Sort
 4. Quick Sort
-5. Two-way merge sort
+5. Counting Sort
 6. Radix Sort
-7. Bucket Sort
+7. Shell Sort
