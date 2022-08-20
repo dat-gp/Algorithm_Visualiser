@@ -9,11 +9,11 @@ Visualizing Searching, Sorting Algorithms
 - This application has been made using python language and pygame library for visualization purposes
 - This app visually demonstrates the working of some of the most popular searching and sorting algorithms.
 
-## Searching Algorithms
+### Searching Algorithms Implemented
 1. Sequential/ Linear search
 2. Binary Search
 
-## Sorting ALgorithms
+### Sorting ALgorithms Implemented
 1. Insertion Sort
 2. Bubble Sort 
 3. Selection Sort
