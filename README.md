@@ -21,5 +21,3 @@ Visualizing Searching, Sorting Algorithms
 3. Selection Sort
 4. Quick Sort
 5. Counting Sort
-6. Radix Sort
-7. Shell Sort
