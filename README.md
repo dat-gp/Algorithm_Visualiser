@@ -7,7 +7,7 @@ Visualizing Searching, Sorting Algorithms
 2. To visualise searching algorithms
    - Run the main_screen.py file in the sorting_algorithms folder
 
-## About the project :-
+## About the project
 - This application has been made using python language and pygame library for visualization purposes
 - This app visually demonstrates the working of some of the most popular searching and sorting algorithms.
 
